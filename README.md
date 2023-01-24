@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Topics Learned via this project-->
+React Hooks, components, props, useState(), useEffect(). Fetch API, JS Promises, and callback.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
